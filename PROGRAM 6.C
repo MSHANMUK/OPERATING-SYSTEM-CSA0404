@@ -55,3 +55,4 @@ int main()
     printf("Avg turn around time of the process is %f\n",Avg_TAT);
     
     return 0;
+}
